@@ -1,4 +1,4 @@
-PATH = "./2024/Python/Day 1/input.txt"
+PATH = "./2024/Day 1/input.txt"
 
 with open(PATH, "r") as file:
     left = []

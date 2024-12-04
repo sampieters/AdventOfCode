@@ -1,6 +1,6 @@
 import re
 
-PATH = "./2024/Python/Day 3/input.txt"
+PATH = "./2024/Day 3/input.txt"
 
 pattern = r"mul\((\d+),(\d+)\)"
 with open(PATH, "r") as file:

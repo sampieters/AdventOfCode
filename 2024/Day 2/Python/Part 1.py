@@ -1,4 +1,4 @@
-PATH = "./2024/Python/Day 2/input.txt"
+PATH = "./2024/Day 2/input.txt"
 
 with open(PATH, "r") as file:
     result = 0

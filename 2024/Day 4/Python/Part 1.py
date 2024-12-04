@@ -1,4 +1,4 @@
-PATH = "./2024/Python/Day 4/input.txt"
+PATH = "./2024/Day 4/input.txt"
 
 with open(PATH, "r") as file:
     matrix = [list(line.strip()) for line in file]

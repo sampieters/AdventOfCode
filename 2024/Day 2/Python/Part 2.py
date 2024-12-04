@@ -1,4 +1,4 @@
-PATH = "./2024/Python/Day 2/input.txt"
+PATH = "./2024/Day 2/input.txt"
 
 def is_sorted(numbers):
     # Check for strictly increasing or decreasing sequences with a difference greater than 0 adn less than 4
